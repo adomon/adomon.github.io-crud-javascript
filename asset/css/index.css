@@ -18,7 +18,7 @@ color: #e6e6e6;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #c5a880;
+  background-color: #35ccf1;
 }
 
 .content {
@@ -68,9 +68,9 @@ input {
   width: 130px;
   cursor: pointer;
   font-size: 15px;
-  color: #e6e6e6;
+  color: #fff;
   border-radius: 5px;
-  background-color: #532e1c;
+  background-color: #04aa44;
 }
 
 .btn-reset {
@@ -92,10 +92,10 @@ table {
 
 th {
   height: 30px;
-  border-bottom: 2px solid #532e1c;
+  border-bottom: 2px solid orangered;
 }
 
 td {
   padding: 5px;
-  border-top: 2px solid #532e1c;
+  border-top: 2px solid rgb(255, 68, 0);
 }
