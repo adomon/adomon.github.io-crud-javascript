@@ -70,7 +70,7 @@ input {
   font-size: 15px;
   color: #e6e6e6;
   border-radius: 5px;
-  background-color: #532e1c;
+  background-color: green;
 }
 
 .btn-reset {
@@ -98,4 +98,5 @@ th {
 td {
   padding: 5px;
   border-top: 2px solid #532e1c;
+  text-align: center;
 }
